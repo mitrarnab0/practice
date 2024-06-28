@@ -27,3 +27,16 @@ section {
     justify-content: center;
     align-items: center;
 }
+
+.foot {
+    padding: 0 30px;
+}
+
+.root {
+    text-align: right;
+    background-color: #076344;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
